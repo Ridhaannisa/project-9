@@ -21,7 +21,7 @@
 						<div class="row">
 						    <div class="col">
 						    	<label for="harga" class="control-label">Harga Produk</label>
-						      <input type="text" class="form-control" name="harga" id="harga" value="{{$produk->harga}}">
+						      <input type="text" class="form-control" name="harga" id="harga">
 						    </div>
 						</div>
 						<div class="row">
